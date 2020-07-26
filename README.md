@@ -1,3 +1,4 @@
+<img src="Twitter-Clone-Ui-Responsive.png" width="100%">
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
